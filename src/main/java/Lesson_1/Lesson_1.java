@@ -10,7 +10,7 @@ public class Lesson_1 {
 
         int distance = rand.nextInt(10);
         int heigth = rand.nextInt(10);
-        actions[0] = new Human("Boris", distance, heigth);
+        actions[0] = new Human("Борис", distance, heigth);
 
         distance = rand.nextInt(10);
         heigth = rand.nextInt(10);

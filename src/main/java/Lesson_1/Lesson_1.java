@@ -18,7 +18,7 @@ public class Lesson_1 {
 
         distance = rand.nextInt(10);
         heigth = rand.nextInt(10);
-        actions[2] = new Cat("Nya", distance, heigth);
+        actions[2] = new Cat("Knopa", distance, heigth);
 
         Barrier[] barriers = new Barrier[6];
 
